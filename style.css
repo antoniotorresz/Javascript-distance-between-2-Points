@@ -1,0 +1,20 @@
+#div{
+    background-origin: padding-box;
+    background-color: whitesmoke;
+    width: 350px;
+    height: fit-content;
+    border-radius: 15px;  
+    position: fixed;
+    top: 2%;
+    bottom: 0;
+    left: 25%;
+    right: 0;
+}
+#btnOk{
+    margin-left: 110px;
+    margin-top: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#lienzo{
+    margin-top: 210px;
+}
